@@ -23,7 +23,7 @@ class Computer {
 	  }
 	 
 	  void laptop_method() {
-	    System.out.println("99% Battery available.");
+	    System.out.println("98% Battery available.");
 	  }
 	}
 
